@@ -10,4 +10,4 @@ RxSwift-Test
 ### 結果
 以下のWarningが出た。
 Privacy Manifest関連のWarningは発生しなかった
-![](/Resources/Images/RxSwift-Application_1.png)
+![](https://raw.githubusercontent.com/shilokuma-inc/iOS-Release-Sample/master/RxSwift-test/Resources/Images/RxSwift-Application_1.png)
