@@ -1,0 +1,6 @@
+framework module Delegate {
+  umbrella header "Delegate-umbrella.h"
+
+  export *
+  module * { export * }
+}
